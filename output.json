@@ -1,0 +1,87 @@
+{
+  "menu": {
+    "appetizers": [
+      {
+        "name": "Pisces",
+        "description": "Pisces is a zodiac constellation.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Aquarius",
+        "description": "Aquarius means 'the water-bearer'.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Aries",
+        "description": "Aries is the first sign of the zodiac.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Cancer",
+        "description": "Cancer constellation is visible in spring.",
+        "price": "$5.0"
+      }
+    ],
+    "main_course": [
+      {
+        "name": "Pisces",
+        "description": "Pisces is a zodiac constellation.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Aquarius",
+        "description": "Aquarius means 'the water-bearer'.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Aries",
+        "description": "Aries is the first sign of the zodiac.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Cancer",
+        "description": "Cancer constellation is visible in spring.",
+        "price": "$5.0"
+      }
+    ],
+    "dishes": [
+      {
+        "name": "Hydra",
+        "description": "Hydra is the biggest constellation.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Crux",
+        "description": "Crux is the smallest constellation.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Sirius",
+        "description": "Sirius is the brightest star.",
+        "price": "$5.0"
+      }
+    ],
+    "desserts": [
+      {
+        "name": "Hydra",
+        "description": "Hydra is the biggest constellation.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Crux",
+        "description": "Crux is the smallest constellation.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Sirius",
+        "description": "Sirius is the brightest star.",
+        "price": "$5.0"
+      },
+      {
+        "name": "Aries",
+        "description": "Taurus is the oldest constellation.",
+        "price": "$5.0"
+      }
+    ]
+  }
+}
